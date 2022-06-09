@@ -3,4 +3,4 @@ desafio de projeto sobre git/github
 
 ##Links uteis
 
-Sintax basica do Markdown (https://www.markdownguide.org/basic-syntax/)
+[Sintax basica do Markdown](https://www.markdownguide.org/basic-syntax/)
